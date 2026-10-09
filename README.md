@@ -13,23 +13,21 @@
 
 ---
 
-🔹 **Microsoft D365 F&O Technical Engineer** and **Enterprise Software Engineer** with over **9 years** of experience delivering business-critical solutions across ERP, HealthTech & Research, Banking, and Trading Platforms. 
+🔹Enterprise Software Engineer for a decade, with experience across ERP, Finance, SCM, Health Research, Banking Solutions, and Trading Platforms. 
+Specialized in **Microsoft Dynamics 365 Finance & Operations (D365 F&O)** with expert-level proficiency in solution architecture, intelligent systems, audit-driven resolution, and cross-functional integration.
 
-🔹 I specialize in designing and delivering ERP solutions through X++ development, application customization, enterprise integrations, reporting, and business intelligence solutions.
+🔹I architect ERP automation, AI-integrated workflows, and embedded systems that enhance audit readiness, scalability, and operational transparency. I have a strong command of X++ customization, Electronic Reporting (ER), Data Entities, C#, Rust, C++, gRPC, WebRTC, WebSockets, and Reverse Engineering. Skilled in integrating cross-functional platforms between Azure AI, OpenAI, and Meta AI services. I deliver secure, data-driven automation across Finance, Supply Chain, Banking, and Trading domains.
 
-🔹 Since 2021, I had been contributing to the USAID-funded ACTB project at icddr,b, where I designed and delivered end-to-end research and **healthcare solutions on Tuberculosis**. 
-I subsequently transitioned to the ERP implementation team, delivering technical solutions across **Finance, Supply Chain, and integration processes**. 
+🔹I bring extensive experience in solution design, metadata validation, workflow automation, financial dimensions, and commitment register reporting, with a proven track record across Banking, Trading, and NGO operations, including audit-ready ERP solutions for donor-funded projects.
 
-🔹 Prior to HealthTech and ERP, I developed enterprise applications for banking systems and global trading community platforms using modern software technologies. 
-This diverse background enables me to approach ERP challenges with a strong software engineering foundation and practical business understanding.
-
-🔹 I am highly **passionate about D365 F&O**, **Research** and Development, and **love to be a Tech-Agnostic**.
+🔹Passionate about embedded systems, AI/ML innovation, and cross-functional ERP integration, I bridge enterprise automation with intelligent technologies to build smarter, scalable business ecosystems.
 
 ## 🛠️ Core Technologies & Skills
 
 | Category | Tools & Technologies |
 | :--- | :--- |
 | **ERP & Microsoft Stack** | D365 F&O, X++, Power Platform, Electronic Reporting (ER), SSRS, Data Entities |
+| **AI & Automation** | Copilot Studio, Python, PySpark, Generative AI, LangChain, HuggingFace, RAG, Redis, PostGre, |
 | **Data & Integration** | OData, REST APIs, SQL Server, PySpark, RabbitMQ, Kafka |
 | **DevOps & Cloud** | Azure DevOps, Microsoft 365, Docker, Kubernetes, Redis |
 | **Full-Stack Development** | JavaScript, React.js, Angular, PHP, Laravel, Spring Boot, Python |
