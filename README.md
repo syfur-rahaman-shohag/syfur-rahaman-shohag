@@ -49,4 +49,5 @@ I write biweekly about practical engineering across enterprise systems, data, an
 *   **Newsletter:**
     **[D365 ERP Engineering Lab](https://www.linkedin.com/newsletters/d365-erp-engineering-lab-7474804072831705088)** and
     **[Tech-Agnostic Engineering Lab](https://www.linkedin.com/newsletters/tech-agnostic-engineering-lab-7482690056198180864/)**
+    
     **[Subscribe on LinkedIn](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7474804072831705088/)**
