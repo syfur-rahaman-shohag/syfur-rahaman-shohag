@@ -1,5 +1,5 @@
 <h1>Syfur Rahaman Shohag <sup>(Solutions Artist | Tech-Agnostic)</sup></h1>
-<h2>D365 F&O Technical Engineer | Enterprise Software Engineer | Business Intelligence Developer | Research Engineer</h2>
+<h2>Microsoft D365 F&O Technical Engineer | Enterprise Software Engineer (AI/ML)| Intelligent & Integration Specialist | InfoSec  </h2>
 
 
 ![Leadership](https://img.shields.io/badge/Leadership-Excellence-blue?style=flat-square&logo=fa-solid:user-tie)
