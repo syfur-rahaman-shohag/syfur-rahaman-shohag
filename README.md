@@ -1,7 +1,6 @@
 <h1>Syfur Rahaman Shohag <sup>(Solutions Artist | Tech-Agnostic)</sup></h1>
 <h2>Microsoft D365 F&O Technical Engineer | Enterprise Software Engineer (AI/ML)| Intelligent & Integration Specialist | InfoSec  </h2>
 
-
 ![Leadership](https://img.shields.io/badge/Leadership-Excellence-blue?style=flat-square&logo=fa-solid:user-tie)
 ![Technical Expert](https://img.shields.io/badge/D365%20F%26O-ERP%20Engineering-darkblue?style=flat-square&logo=microsoft)
 ![X++](https://img.shields.io/badge/Language-X%2B%2B-orange?style=flat-square)
@@ -27,7 +26,7 @@ Specialized in **Microsoft Dynamics 365 Finance & Operations (D365 F&O)** with e
 | Category | Tools & Technologies |
 | :--- | :--- |
 | **ERP & Microsoft Stack** | D365 F&O, X++, Power Platform, Electronic Reporting (ER), SSRS, Data Entities |
-| **AI & Automation** | Copilot Studio, Python, PySpark, Generative AI, LangChain, HuggingFace, RAG, Redis, PostGre, |
+| **AI & Automation** | Copilot Studio, Python, PySpark, Generative AI, LangChain, HuggingFace, RAG, Redis, PostgreSQL |
 | **Data & Integration** | OData, REST APIs, SQL Server, PySpark, RabbitMQ, Kafka |
 | **DevOps & Cloud** | Azure DevOps, Microsoft 365, Docker, Kubernetes, Redis |
 | **Full-Stack Development** | JavaScript, React.js, Angular, PHP, Laravel, Spring Boot, Fast API |
@@ -50,3 +49,4 @@ I write biweekly about practical engineering across enterprise systems, data, an
 *   **Newsletter:**
     **[D365 ERP Engineering Lab](https://www.linkedin.com/newsletters/d365-erp-engineering-lab-7474804072831705088)** and
     **[Tech-Agnostic Engineering Lab](https://www.linkedin.com/newsletters/tech-agnostic-engineering-lab-7482690056198180864/)**
+    **[Subscribe on LinkedIn](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7474804072831705088/)**
