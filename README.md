@@ -30,7 +30,7 @@ Specialized in **Microsoft Dynamics 365 Finance & Operations (D365 F&O)** with e
 | **AI & Automation** | Copilot Studio, Python, PySpark, Generative AI, LangChain, HuggingFace, RAG, Redis, PostGre, |
 | **Data & Integration** | OData, REST APIs, SQL Server, PySpark, RabbitMQ, Kafka |
 | **DevOps & Cloud** | Azure DevOps, Microsoft 365, Docker, Kubernetes, Redis |
-| **Full-Stack Development** | JavaScript, React.js, Angular, PHP, Laravel, Spring Boot, Python |
+| **Full-Stack Development** | JavaScript, React.js, Angular, PHP, Laravel, Spring Boot, Fast API |
 
 ---
 
